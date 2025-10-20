@@ -1,6 +1,9 @@
 # Adota+
 Projeto referente a matéria de Implementação de Software - Universidade do Vale do Rio dos Sinos
 
+# Descrição:
+A aplicação tem como foco principal conectar animais de rua abandonados a pessoas interessadas em adotá-los de forma segura e responsável.
+
 ### Tecnologias utilizadas: 
 - Python
 - HTML
